@@ -130,4 +130,4 @@ This work is shared under [CC BY-NC-SA 4.0](LICENSE): free to share and adapt fo
 
 ## About the author
 
-Prashant Pandey · [LinkedIn URL] · [email]
+Prashant Pandey · https://www.linkedin.com/in/prashantpandey120143/ · prashantpandey120143@gmail.com
